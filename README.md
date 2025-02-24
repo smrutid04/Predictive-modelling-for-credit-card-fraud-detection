@@ -4,6 +4,7 @@ Working of the Project
 Data Preprocessing: 
 
 The dataset is cleaned, missing values are handled, and features are scaled.
+
 Exploratory Data Analysis (EDA): Visualizations and statistical methods are used to understand data distribution and detect class imbalance.
 
 Feature Selection & Engineering: Important features are selected and transformed to improve model performance.
